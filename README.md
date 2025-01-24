@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 TailwindCss 4.0
 
-- in vite.config.js plugins add react() and tailwindcss() also import react from vitejs pluglin react and tailwind from tailwindcss vite
+- In vite.config.js plugins add react() and tailwindcss() also import react from vitejs pluglin react and tailwind from tailwindcss vite
